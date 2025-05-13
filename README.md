@@ -138,5 +138,3 @@ The application uses `.ini` files to store settings and presets in the same dire
 *   **Poor Decoding Performance:** Experiment extensively with all available image processing parameters. The "Iterate Presets" feature is very helpful for this. Adaptive thresholding and manual repair can be particularly effective for challenging codes.
 
 ---
-
-This README provides a good overview for users and developers interacting with your project.
